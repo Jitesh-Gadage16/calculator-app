@@ -6,7 +6,7 @@ function App() {
   const[result,setResult] = useState("")
 
   const handleClick = (e) => {
-   setResult()
+   setResult()a
   }
   return (
     <>
